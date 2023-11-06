@@ -1,4 +1,7 @@
-# 1845. Seat Reservation Manager
+"""Seat Reservation Manager Module
+
+This module provides a SeatManager class for managing seat reservations.
+"""
 
 import heapq
 
