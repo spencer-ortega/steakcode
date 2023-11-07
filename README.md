@@ -12,3 +12,8 @@ python3 -m venv pyenv
 ```commandline
 pip install -r requirements.txt
 ```
+
+3. start pyenv
+```commandline
+source pyenv/bin/activate
+```
